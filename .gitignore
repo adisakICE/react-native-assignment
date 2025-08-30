@@ -37,3 +37,14 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+package-lock.json
+package-lock.yaml
+
+.package-lock.json
+
+ios
+android
+bun.lock
+
+.vscode/
